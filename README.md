@@ -1,8 +1,20 @@
-# React + Vite
+## Getting Started
+Use node version 18.15.0 
+To run this React project locally, follow these steps:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. Clone this repository to your local machine:
+   git clone https://github.com/MianHamzaHussain/list-view
 
-Currently, two official plugins are available:
+2. Navigate to the project directory:
+   cd  list-view
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3. Install dependencies using npm or yarn:
+   npm install
+# or
+yarn
+
+4. Start the development server:
+npm run dev
+# or
+yarn dev
+5. Open your browser and visit http://localhost:5173/ to see the application.
